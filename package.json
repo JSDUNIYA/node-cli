@@ -1,0 +1,23 @@
+{
+  "name": "node-cli",
+  "version": "1.0.0",
+  "description": "Creating script ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSDUNIYA/node-cli.git"
+  },
+  "author": "Siddesh Bhalke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSDUNIYA/node-cli/issues"
+  },
+  "homepage": "https://github.com/JSDUNIYA/node-cli#readme",
+  "dependencies": {
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34"
+  }
+}
